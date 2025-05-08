@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aicorein" alt="aicorein" /></a> </p>
 
-- 🔭 I’m currently studying on [HDU](https://www.hdu.edu.cn/main.htm)
+- 🔭 I’m a graduate student, who currently studying on [HDU](https://www.hdu.edu.cn/main.htm)
 
 - 🌏 I'm language available in **English/Chinese**
 
